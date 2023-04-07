@@ -2,7 +2,7 @@
 
 A simple project using Python to implement OpenTracing with Jaeger followed this tutorial(https://medium.com/velotio-perspectives/a-comprehensive-tutorial-to-implementing-opentracing-with-jaeger-a01752e1a8ce)
 
-## Prerequest
+## Prerequisite
 ```bash
 python3 -m pip install jaeger-client
 python3 -m pip install opentracing_instrumentation
